@@ -1,4 +1,4 @@
-import lib1743585 as lib
+import lib as lib
 import sys
 
 
